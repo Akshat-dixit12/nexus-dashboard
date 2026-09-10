@@ -1,0 +1,1 @@
+// useTenant stub
